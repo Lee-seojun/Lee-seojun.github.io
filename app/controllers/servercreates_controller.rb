@@ -1,0 +1,2 @@
+class ServercreatesController < ApplicationController
+end
